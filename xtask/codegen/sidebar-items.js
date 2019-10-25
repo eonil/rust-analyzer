@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["AST",""],["GRAMMAR",""],["SYNTAX_KINDS",""]],"enum":[["Mode",""]],"fn":[["generate_parser_tests",""],["generate_syntax",""],["update","A helper to update file on disk if it has changed. With verify = false,"]]});
